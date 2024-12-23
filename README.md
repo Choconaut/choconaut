@@ -1,16 +1,45 @@
-## Hi there 👋
+### Hello 🌎, I'm Peter Chen
+I’m a software engineer who loves tackling challenging problems and exploring new technologies. Whether it’s designing clean, maintainable backends or experimenting with dynamic frontends, I enjoy turning ideas into reality. When I’m not coding, I’m likely playing strategy or RPG games that inspire logical thinking and creativity.
 
-<!--
-**Choconaut/Choconaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🔭 I’m currently working on ParcelSearch, a web app for searching county information, and PocketOfficePool, a web app for office pools.
+  - 🌱 I’m currently learning Spring Security, Springboot.
 
-Here are some ideas to get you started:
+### 📫 Connect with me:
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/peter-n-chen/)
+- 📧 [Email](mailto:peter.n.chen@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+- [**Tank Game**](https://github.com/username/tank-game): A 2D JavaFX game showcasing OOP principles like modular design and collision handling.
+
+### 🔧 Technologies & Tools
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java,python,spring,maven,hibernate"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,react,html,css,js,figma"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode,eclipse"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+    </tr>
+</table>
