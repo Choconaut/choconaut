@@ -5,7 +5,7 @@ I’m a software engineer who loves tackling challenging problems and exploring 
   - 🌱 I’m currently learning Spring Security, Springboot.
 
 ### 📫 Connect with me:
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+<!--- - 🌐 [Portfolio](https://your-portfolio-link.com) !-->
 - 💼 [LinkedIn](https://www.linkedin.com/in/peter-n-chen/)
 - 📧 [Email](mailto:peter.n.chen@gmail.com)
 
