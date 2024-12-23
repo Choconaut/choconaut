@@ -9,6 +9,14 @@ I’m a software engineer who loves tackling challenging problems and exploring 
 - 💼 [LinkedIn](https://www.linkedin.com/in/peter-n-chen/)
 - 📧 [Email](mailto:peter.n.chen@gmail.com)
 
+### Activity
+<div align="center">
+  <a href="https://github.com/Choconaut">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Choconaut&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Choconaut"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Choconaut&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Choconaut"/>
+  </a>
+</div>
+
 ### 🌟 Featured Projects
 - [**Tank Game**](https://github.com/username/tank-game): A 2D JavaFX game showcasing OOP principles like modular design and collision handling.
 
