@@ -18,7 +18,7 @@ I’m a software engineer who loves tackling challenging problems and exploring 
 </div>
 
 ### 🌟 Featured Projects
-- [**Tank Game**](https://github.com/username/tank-game): A 2D JavaFX game showcasing OOP principles like modular design and collision handling.
+- [**Tank Game**](https://github.com/Choconaut/tankgame): A 2D JavaFX game showcasing OOP principles like modular design and collision handling.
 
 ### 🔧 Technologies & Tools
 <table>
