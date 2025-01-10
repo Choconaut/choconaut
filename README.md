@@ -1,5 +1,5 @@
 ### Hello 🌎, I'm Peter Chen
-I’m a software engineer who loves tackling challenging problems and exploring new technologies. Whether it’s designing clean, maintainable backends or experimenting with dynamic frontends, I enjoy turning ideas into reality. When I’m not coding, I’m likely playing strategy or RPG games that inspire logical thinking and creativity.
+I’m a software engineer who loves tackling challenging problems and exploring new technologies. Whether it’s designing clean, maintainable backends or experimenting with dynamic frontends, I enjoy turning ideas into reality. When I’m not coding, I’m likely playing strategy or RPGs that inspire logical thinking and creativity.
 
   - 🔭 I’m currently working on ParcelSearch, a web app for searching county information, and PocketOfficePool, a web app for office pools.
   - 🌱 I’m currently learning Spring Security, Springboot.
