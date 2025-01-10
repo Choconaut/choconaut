@@ -28,7 +28,7 @@ I’m a software engineer who loves tackling challenging problems and exploring 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,react,html,css,js,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vue,react,html,css,js,ts,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
