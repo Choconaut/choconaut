@@ -19,7 +19,7 @@ I’m a software engineer who loves tackling challenging problems and exploring 
 
 ### 🌟 Featured Projects
 - [**portfolio**](https://github.com/Choconaut/portfolio): A collection of projects that highlights my skills, creativity, and passion for coding.
-- [**Tank Game**](https://github.com/Choconaut/tankgame): A 2D JavaFX game showcasing OOP principles like modular design and collision handling.
+- [**tank-game**](https://github.com/Choconaut/tankgame): A 2D JavaFX game showcasing OOP principles like modular design and collision handling.
 
 ### 🔧 Technologies & Tools
 <table>
