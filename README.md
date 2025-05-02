@@ -37,7 +37,7 @@ I’m a software engineer who loves tackling challenging problems and exploring 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,githubactions,nginx"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
